@@ -72,7 +72,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 	<div id="body">
 		<h1>welcome to ci restapi</h1>
-		<h2>This wecome Page Commit new My new changes</h2>
+		<h2>This wecome Page Commit new My new changes Updated</h2>
 		<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
 
 		<p>If you would like to edit this page you'll find it located at:</p>
